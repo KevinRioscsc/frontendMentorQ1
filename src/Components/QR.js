@@ -1,6 +1,7 @@
 import React from 'react'
 import img from '../images/image-qr-code.png'
 import './style.css'
+//
 
 const QR = () => {
   return (
